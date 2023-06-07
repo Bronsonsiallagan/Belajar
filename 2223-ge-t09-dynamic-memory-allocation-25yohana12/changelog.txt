@@ -1,0 +1,4 @@
+Pair 12 mengerjakan T01
+Menghapus 1 line dari makefile.
+Ulang lagi.
+Pengerjaan ulang.
